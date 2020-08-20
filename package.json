@@ -1,0 +1,17 @@
+{
+  "name": "spotifychart-jsdom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "Farras Agda"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "got": "^11.5.2",
+    "jsdom": "^16.4.0"
+  },
+  "devDependencies": {}
+}
